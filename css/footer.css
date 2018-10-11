@@ -1,0 +1,64 @@
+.styled-button-5 {
+position: relative;
+ 
+display: inline-block;
+	background-color:#FF3366;
+	color:rgba(255, 255, 255, 0.8);
+	font-size:1rem;
+ 
+	line-height:30px;
+	border-radius:20px;
+	-webkit-border-radius:20px;
+	-moz-border-radius:20px;
+	border:0;
+	text-shadow:#C17C3A 0 -1px 0;
+	height:32px;
+	width:120px;
+}  
+footer {
+    background-color:black;
+    color:white;
+    clear:both;
+    text-align:center;
+    padding:5px;
+    width:100%;	 	 
+}
+.submit_reset {
+  
+position: relative;
+  
+width: 120px;
+height: 4rem;
+  
+margin: 5rem 0 2.2rem;
+  
+color: rgba(255, 255, 255, 0.8);
+  background: #FF3366;
+  
+font-size: 1.5rem;
+  
+border-radius: 3rem;
+  
+cursor: pointer;
+  
+overflow: hidden;
+  
+-webkit-transition: width 0.3s 0.15s, font-size 0.1s 0.15s;
+
+transition: width 0.3s 0.15s, font-size 0.1s 0.15s;
+}
+
+.button-panel
+{    
+    display: table;
+    margin: 0 auto;
+}
+
+.button {
+    display: block;
+    border: none;
+    padding: .5em 1em;
+    width: 100%;
+}
+ 
+
